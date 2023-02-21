@@ -1,3 +1,4 @@
-https://github.com/hexlet-codebattle/codebattle/issues/1322
-https://github.com/hexlet-codebattle/codebattle/issues/1321
-https://github.com/hexlet-codebattle/codebattle/issues/1320
+issues:
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1322"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1321"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1320"
